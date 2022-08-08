@@ -1,0 +1,10 @@
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\obj\Debug\Obstacle Game.csproj.AssemblyReference.cache
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\obj\Debug\Obstacle_Game.Form1.resources
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\obj\Debug\Obstacle_Game.Properties.Resources.resources
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\obj\Debug\Obstacle Game.csproj.GenerateResource.cache
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\obj\Debug\Obstacle Game.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\bin\Debug\Obstacle Game.exe.config
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\bin\Debug\Obstacle Game.exe
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\bin\Debug\Obstacle Game.pdb
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\obj\Debug\Obstacle Game.exe
+C:\Users\IMOE001\Dropbox\PC\Desktop\Obstacle Game\Obstacle Game\obj\Debug\Obstacle Game.pdb
