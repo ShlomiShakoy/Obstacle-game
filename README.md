@@ -1,5 +1,5 @@
 # Obstacle-game
-Using c# winform.
+My first project of using c# winform.
 
 <img width="640" alt="standing" src="https://user-images.githubusercontent.com/103436003/183442333-a5efdd78-550e-427a-9f7d-6f5f1d512dd0.PNG">
 
